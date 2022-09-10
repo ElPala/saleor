@@ -16,9 +16,9 @@
     "NPM_CONFIG_PRODUCTION": "false",
     "ALLOWED_HOSTS": {
       "description": "Comma-separated list of hosts",
-      "value": ".herokuapp.com"
+      "value": "solohules.herokuapp.com"
     },
-    "DEFAULT_FROM_EMAIL": "noreply@example.com",
+    "DEFAULT_FROM_EMAIL": "noreply@solohules.herokuapp.com",
     "SECRET_KEY": {
       "description": "A secret key for verifying the integrity of signed cookies.",
       "generator": "secret"
